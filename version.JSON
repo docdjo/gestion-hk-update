@@ -1,10 +1,8 @@
-
 {
   "version": "1.0.2.0",
-  "zip": "https://drive.google.com/uc?export=download&id=14ex8L_Ubte3Nf0dryT3JKcyDZCS_Ecan"
-"sha256": "a948904f2f0f479b8f8197694b30184b0d2ed1c1cd2a1ec0fb85d299a192a447",
+  "zip": "https://drive.google.com/uc?export=download&id=14ex8L_Ubte3Nf0dryT3JKcyDZCS_Ecan",
+  "sha256": "a948904f2f0f479b8f8197694b30184b0d2ed1c1cd2a1ec0fb85d299a192a447",
   "release_notes": "Fixed crash on startup\nAdded new report export\nImproved Arabic UI",
-  "minimum_os": "Windows 7 SP1 or later",   // optional
-  "published": "2026-01-10T14:30:00Z"       // optional — ISO 8601
+  "minimum_os": "Windows 7 SP1 or later",
+  "published": "2026-01-10T14:30:00Z"
 }
-
